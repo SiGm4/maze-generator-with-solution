@@ -1,0 +1,13 @@
+body{
+    background-color: #556;
+    color:white;    
+    
+    
+    padding-top:10px;
+    font-size: 25px;
+}
+
+#canvas-holder{
+    margin-top: 10px;
+}
+
